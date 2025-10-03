@@ -1,0 +1,4 @@
+AIM: 
+To draw the diagrams [usecase, activity, sequence, collaboration, class, statechart,  collaboration, component, deployment, package] for the Passport Automation System.
+DESCRIPTION: 
+	This software is designed for the verification of the passport details of the applicant by the central computer.  The details regarding the passport will be provided to the central computer and the computer will verify the details of applicant and provide approval to the office.  Then the passport will issue from the office to the applicant.
