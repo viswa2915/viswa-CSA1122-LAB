@@ -1,0 +1,28 @@
+AIM: 
+
+To draw the diagrams [usecase, activity, sequence, collaboration, class, statechart, component, deployment, package] for the Online course reservation system. 
+
+SOFTWARE REQUIREMENTS SPECIFICATION:
+SL.NO	SOFTWARE REQUIREMENTS SPECIFICATION
+1.0	Hardware Requirements
+1.1	Software Requirements
+1.2	Problem Analysis and Project Plan
+1.3	Project Description
+1.4	Reference
+
+1.0	HARDWARE REQUIREMENTS: 
+
+Intel Pentium Processor I3/I5
+
+1.1 SOFTWARE REQUIREMENTS: 
+
+ Rational rose / Argo UML
+ 
+1.2 PROBLEM ANALYSIS AND PROJECT PLANNING: 
+
+The requirement form the customer is got and the requirements about the course registration are defined. The requirements are analyzed and defined so that is enables the student to efficiency select a course through registration system. The project scope is identified and the problem statement is prepared.
+
+1.3PROJECT DESCRIPTION: 
+
+This software is designed for supporting online course reservation system. This system is organized by the central management system . The student first browses and select the desired course of their choice. The university then checks the availability of the seat if it is available the student is enrolled for the course. 
+
