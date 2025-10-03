@@ -1,0 +1,4 @@
+AIM: 
+To draw the diagrams [usecase, activity, sequence, collaboration, class, statechart,  collaboration, component, deployment, package ] for the Book bank registration system.
+DESCRIPTION: 
+This software is designed for the verification of the details of the student by the central computer. The details regarding the student will be provided to the central computer through the administrator in the book bank and the computer will verify the details of student and provide approval to the office. Then the books that are needed by the student will issue from the office to the him. 
