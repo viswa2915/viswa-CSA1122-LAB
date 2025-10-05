@@ -1,0 +1,19 @@
+AIM:
+	To draw the diagrams [ Use case , Class, Activity, Sequence, Collaboration, State Chart, Component, Deployment, package ] for the BPO Management System .
+SOFTWARE REQUIREMENTS SPECIFICATION
+SL.NO	SOFTWARE REQUIREMENTS SPECIFICATION
+1.0	Hardware Requirements
+1.1	Software Requirements
+1.2	Problem Analysis and Project Plan
+1.3	Project description
+1.4	Reference
+
+1.0 HARDWARE REQUIREMENTS: 
+
+Intel Pentium Processor I3/I5 
+
+1.1 SOFTWARE REQUIREMENTS: 
+ Rational rose /Argo UML 
+
+1.3 PROJECT DESCRIPTION:
+	This software is designed to know about the process that were taking place in the BPO office. This system holds the details of the customer who and all approaches to it.It is managed by the central systems.
