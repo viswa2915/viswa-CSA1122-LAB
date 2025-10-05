@@ -1,0 +1,21 @@
+AIM:
+	To draw the diagram[Usecase, Activity, Sequence, Collaboration, Class, StateChart, Component and Deployment, package] for recruitment system.
+SOFTWARE REQUIREMENTS SPECIFICATION:
+SL.NO	SOFTWARE REQUIREMENTS SPECIFICATION
+1.0	Hardware Requirements
+1.1	Software Requirements
+1.2	Problem Analysis and Project Plan
+1.3	Project description
+1.4	Reference
+
+1.0 HARDWARE REQUIREMENTS: 
+
+Intel Pentium Processor I3/I5 
+
+1.1 SOFTWARE REQUIREMENTS: 
+
+ Rational rose / Argo UML 
+
+1.3 PROJECT DESCRIPTION: 
+
+This system is designed to recruit the particular job to the person in a company .It was controlled by the central management system to manage the details of the particular candidate that one has to be recruited for a company. 
